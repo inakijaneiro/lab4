@@ -1,0 +1,23 @@
+#list {
+padding-inline-start: 0;
+}
+
+.container {
+    padding-inline-start: 20px;
+}
+
+.striked {
+    text-decoration: line-through;
+}
+
+
+.list-item {
+    border: 1px solid lightgray;
+    list-style: none;
+    padding-left: 1em;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    color: #8d8888;
+    font-weight: bold;
+    font-style: italic;
+}
